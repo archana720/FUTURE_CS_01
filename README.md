@@ -1,9 +1,9 @@
 # FUTURE_CS_01 – Vulnerability Assessment Report for a Live Website
 
-- Internship Track - Cyber Security Intern 
-- Host Organization - Future Interns 
-- Prepared By - Archana S
-- Target Website - OWASP Juice Shop
+- **Internship Track :** Cyber Security Intern 
+- **Host Organization :** Future Interns 
+- **Prepared By :** Archana S
+- **Target Website :** OWASP Juice Shop
 ---
 
 ## 🔍 Project Overview
@@ -46,7 +46,8 @@ This assessment was conducted following ethical cybersecurity practices and was 
 - HTTP security header analysis,
 - Network and service discovery,
 - configuration analysis. 
-- No login bypass, vulnerability exploitation, brute-force attacks, Denial-of-Service (DoS), or any activity that could negatively impact the target application was performed. The assessment was carried out as a **passive security audit**, not a penetration test.
+
+  No login bypass, vulnerability exploitation, brute-force attacks, Denial-of-Service (DoS), or any activity that could negatively impact the target application was performed. The assessment was carried out as a **passive security audit**, not a penetration test.
 ---
 
 ## 🛠️ Tools Used
@@ -139,7 +140,7 @@ This repository contains:
 
 ## 📁 Repository Structure
 
-This repository includes:
+This repository contains:
 
 ```text
 FUTURE_CS_01/
@@ -165,3 +166,10 @@ FUTURE_CS_01/
 - Security Reporting
 - Ethical Security Testing
 - Technical Documentation
+
+
+---
+
+## ✅ Conclusion
+
+This project demonstrates a passive vulnerability assessment conducted using industry-standard cybersecurity tools, including **Nmap**, **OWASP ZAP (Passive Scan)**, and **Browser Developer Tools (Chrome DevTools)**. The assessment identified common web security issues, classified their risk levels, and provided practical remediation recommendations while adhering to ethical security testing practices.
