@@ -1,5 +1,11 @@
 # FUTURE_CS_01 – Vulnerability Assessment Report for a Live Website
 
+- Internship Track - Cyber Security Intern 
+- Host Organization - Future Interns 
+- Prepared By - Archana S
+- Target Website - OWASP Juice Shop
+---
+
 ## 🔍 Project Overview
 
 This project was completed as part of the **Future Interns Cyber Security Internship – Task 01**.
